@@ -1,4 +1,9 @@
-! # Startpage Enable Ads
+! ###########################################################################################
+! Title: Startpage Enable Ads Filter-list
+! Expires: 15 days
+! Description: Filter to support Startpage by whitelisting their ads.
+! ###########################################################################################
+
 @@||startpage.com
 ! # Unblock and display ad related doms, if you have filters that block them (Easylist, AdGuard, etc)
 #@#.ad.widget
