@@ -4,7 +4,7 @@
 Ublock Origin filter to support [DuckDuckGo](https://www.duckduckgo.com), [Startpage](https://www.startpage.com) and [Swisscows](https://www.swisscows.com) by whitelisting their ads. 
 
 # Why Whitelist Their Ads?
-Both Startpage and Swisscows use privacy respecting contextual based advertisements. 
+DuckDuckGo, Startpage, and Swisscows use privacy respecting contextual based advertisements. 
 
 DuckDuckGo business model ([Ads by TripAdvisor on DuckDuckGo Private Search](https://duckduckgo.com/duckduckgo-help-pages/company/ads-by-tripadvisor-on-duckduckgo-private-search/)) & ([Ads By Microsoft on DuckDuckGo Private Search](https://duckduckgo.com/duckduckgo-help-pages/company/ads-by-microsoft-on-duckduckgo-private-search/))
 
