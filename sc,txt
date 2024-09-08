@@ -1,4 +1,9 @@
-! # Swisscows Enable Ads
+! ###########################################################################################
+! Title: Swisscows Enable Ads Filter-list
+! Expires: 15 days
+! Description: Filter to support SwissCows by whitelisting their ads.
+! ###########################################################################################
+
 @@||swisscows.com
 #@#.advrts--text
 #@#.web-results > .a11t
