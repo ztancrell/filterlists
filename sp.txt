@@ -1,0 +1,13 @@
+! # Startpage Enable Ads
+@@||startpage.com
+! # Unblock and display ad related doms, if you have filters that block them (Easylist, AdGuard, etc)
+#@#.ad.widget
+#@##ads-1:not([style^="position: absolute; left: -5000px"])
+#@#.banner_ad
+#@#.a-gl-tp__gcsa
+#@#.footer__social
+#@#.shopping-ads
+#@#.widget-install-legacy
+#@#.mainline-results > .block-display
+#@#.house-ads
+#@##block-display
