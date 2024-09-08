@@ -1,0 +1,11 @@
+! Support DuckDuckGo, Similar to Startpage Whitelist.
+! Aug 12, 2024 https://duckduckgo.com
+@@||duckduckgo.com^$1p
+@@||duckduckgo.com/t.js$script,1p
+@@||duckduckgo.com/t.js$1p
+@@||links.duckduckgo.com/d.js$script,1p
+#@#li[data-layout="ad"]
+#@#[data-layout="ad"]
+#@#.header__search-wrap + div.header--aside > div.header--aside__item
+#@#.header--aside.js-header-aside > .header--aside__item > [class]
+@@||duckduckgo.com/t.js$script,1p
