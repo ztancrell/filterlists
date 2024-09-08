@@ -1,6 +1,6 @@
 ### I am not affiliated with DuckDuckGo, Startpage, or Swisscows. I just like their search engines and want to support them. I hope you enjoy this filterlist! :)
 
-# Filterlist
+# Filterlists
 Ublock Origin filter to support [DuckDuckGo](https://www.duckduckgo.com), [Startpage](https://www.startpage.com) and [Swisscows](https://www.swisscows.com) by whitelisting their ads. 
 
 # Why Whitelist Their Ads?
