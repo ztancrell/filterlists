@@ -1,4 +1,9 @@
-! Support DuckDuckGo, Similar to Startpage Whitelist.
+! ###########################################################################################
+! Title: DDG Ads Enabled Filter-list
+! Expires: 15 days
+! Description: Filter to support DuckDuckGo by whitelisting their ads.
+! ###########################################################################################
+
 ! Aug 12, 2024 https://duckduckgo.com
 @@||duckduckgo.com^$1p
 @@||duckduckgo.com/t.js$script,1p
